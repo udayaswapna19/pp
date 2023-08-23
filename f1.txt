@@ -1,0 +1,4 @@
+maths-200
+eng-200
+science-250
+telugu150
